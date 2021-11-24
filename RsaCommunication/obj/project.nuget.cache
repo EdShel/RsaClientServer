@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x4HshHs1ayzdtRC0Sd0kou2zpHNe5ygPQRJUV/wMze/XsTER8fHccp190d+D/1YyF8uEzX4Za1Aeq52WJ6bTEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Trash\\Security\\LW2\\RsaCommunication\\RsaCommunication\\RsaCommunication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
